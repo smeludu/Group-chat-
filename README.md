@@ -1,4 +1,4 @@
-# create_social
+# Group chat
 
 A new Flutter project.
 
